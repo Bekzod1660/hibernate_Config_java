@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="hibernate_imtixoni:Web2 exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/hibernate_imtixoni_Web2_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="hibernate_imtixoni" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="hibernate_imtixoni/web/Web2" />
+    </root>
+  </artifact>
+</component>
